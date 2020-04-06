@@ -8,11 +8,12 @@ h1 {
   font-size: 6rem;
 }
 h2 {
-  margin-bottom: 30px;
+  margin: 30px;
 }
 .btn {
-  margin-top: 50px;
+  margin: 5% 2% 0 2%;
   padding: 1rem 3rem;
+  width: 300px;
 }
 .button-text {
   font-size: 2rem;
