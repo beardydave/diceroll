@@ -1,7 +1,7 @@
 body {
   text-align: center;
   background-color: #dee3e2;
-  padding: 8% 1% 5% 1%;
+  padding: 8% 3% 5% 3%;
   font-family: 'Rubik', sans-serif;
 }
 h1 {
@@ -26,6 +26,12 @@ h2 {
   margin: 5% 2% 0 2%;
   width: 260px;
 }
+@media (max-width: 600px){
+  .top-btn{
+    margin-top: 40px;
+  }
+}
+
 .button-text {
   font-size: 2rem;
 }
