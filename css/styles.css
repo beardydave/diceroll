@@ -10,7 +10,7 @@ h1 {
 @media (max-width: 600px){
   h1{
     font-size: 2.5rem;
-    width: 250px;
+    width: 240px;
     margin: 0 auto;
   }
 }
